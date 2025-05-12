@@ -1,4 +1,4 @@
-<img src="https://eps.ujaen.es/sites/centro_eps/files/styles/news_photo_tablet/public/uploads/node_noticia/2020-03/unnamed.png?itok=gtl_-LKj" width="200" height="150" />
+<img src="https://eps.ujaen.es/sites/centro_eps/files/styles/news_photo_tablet/public/uploads/node_noticia/2020-03/unnamed.png?itok=gtl_-LKj" width="150" height="90" />
 
 # A4 Building
 ## Proyecto final de Informática gráfica y visualización
