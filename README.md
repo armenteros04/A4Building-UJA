@@ -34,12 +34,13 @@ Lo cual origina un cubo sólido de tamaño 1 que al aplicar transformaciones geo
 
 ### **Modelado del grafo de escena**
 
-<img src="https://media.discordapp.net/attachments/1339681933994623102/1339681947542360074/image.png?ex=67af9b8a&is=67ae4a0a&hm=c0b4bd5dc223eee993c8a078abeb1aeac83c8f301396095abb383ce3627dcc17&=&format=webp&quality=lossless" width="650">
+![Grafo](images/arbol.jpeg)
+
 
 El grafo de escena que vamos a representar es una persona con gorra bailando.
 Las transformaciones que puede hacer son mover los brazos haciendo una rotación, al igual que la cabeza. Respecto a las piernas puede agacharse simulando hacer una sentadilla con un ángulo de 45 grados.
 
-<img src="https://media.discordapp.net/attachments/1339681933994623102/1339682700168134736/image.png?ex=67af9c3d&is=67ae4abd&hm=d8ab8148c4f1bf638650e2c3b679bbf49c94d0a38cb1b391b4619e4c58ece1f7&=&format=webp&quality=lossless" width="400">
+![Robot](images/ropot.jpeg)
 
 ### **Selección e interacción con el grafo de escena**
 
